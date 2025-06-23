@@ -1,5 +1,3 @@
-package com.example.inheritance;
-
 // Base class (superclass)
 class Animal {
     protected String name;
